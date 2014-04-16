@@ -1,204 +1,0 @@
-TPods-FlurrySDK
-v6
-r1
-cCheck dependencies
-cProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a normal armv7
-cLibtool /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a normal armv7s
-cCreateUniversalBinary /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-FlurrySDK.a normal armv7\ armv7s
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
-c0000000053119F860000000000000132
-t1393663878
-s306
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
-c00000000531F1A98000000000000036B
-t1394547352
-s875
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000531F1A99000000000000019E
-t1394547353
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000531F1A9C00000000004D7BC0
-t1394547356
-s5077952
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000531F1A9E0000000000A90C10
-t1394547358
-s11078672
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
-c00000000531F1A9E0000000000186D60
-t1394547358
-s1600864
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-c00000000531F1A9F00000000001A2B00
-t1394547359
-s1714944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000531F1AA60000000002759920
-t1394547366
-s41261344
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c00000000531F1ADB0000000000000ADC
-t1394547419
-s2780
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-FlurrySDK.a
-t2
-s0
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m
-c000000005347ED830000000000000084
-t1397222787
-s132
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-prefix.pch
-c000000005347ED83000000000000004E
-t1397222787
-s78
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.o
-t1397289729
-s3792
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK.LinkFileList
-c000000005348F301000000000000009D
-t1397289729
-s157
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a
-t1397289729
-s4080
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.o
-t1397289729
-s3792
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK.LinkFileList
-c000000005348F301000000000000009E
-t1397289729
-s158
-
-N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a
-t1397289729
-s4080
-
-N/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.pch
-t1397289729
-s109692
-
-N/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.pch
-t1397289729
-s109692
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6bf22c812af9b841^e8bc2e812af9b841^---0#1#1#--18"Check dependencies36"CC986153-22D5-48E1-AFDD-F39A7300AB6B-
-
-CCompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418982529.242932
-e418982529.291611
-r1
-xCompileC
-xbuild/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.o
-x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m199"CompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.o Pods-FlurrySDK-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerba663e812af9b841^d6a94a812af9b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m0000000000000000^4385"CompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.o Pods-FlurrySDK-dummy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources/armv7 -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch -MMD -MT dependencies -MF /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.d --serialize-diagnostics /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.dia -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK-dummy.o36"2D64955D-9D37-48E7-A7AE-02AA6037D5FD-
-bF8CFBEE4-A326-4328-815C-99FA15F0E89B
-
-CCompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418982529.242606
-e418982529.291647
-r1
-xCompileC
-xbuild/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.o
-x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m201"CompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.o Pods-FlurrySDK-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc4963e812af9b841^25b34a812af9b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m0000000000000000^4392"CompileC build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.o Pods-FlurrySDK-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources/armv7s -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch -MMD -MT dependencies -MF /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.d --serialize-diagnostics /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.dia -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-dummy.m -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK-dummy.o36"31BB50CE-0641-4402-94A7-B7CEB46AC97B-
-bF8CFBEE4-A326-4328-815C-99FA15F0E89B
-
-CCreateUniversalBinary /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-FlurrySDK.a normal armv7\ armv7s
-s418982529.307786
-e418982529.318160
-r1
-xCreateUniversalBinary
-x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-FlurrySDK.a
-xnormal
-xarmv7 armv7s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Create universal binary /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-FlurrySDK.a69"CreateUniversalBinary .build/libPods-FlurrySDK.a normal armv7\ armv7sa0354f812af9b841^647351812af9b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-FlurrySDK.a0034985bdcffdf42^1038"CreateUniversalBinary .build/libPods-FlurrySDK.a normal armv7\ armv7s    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-FlurrySDK.a36"AA8D50E5-E23E-4597-AAA8-ADDD1894BC01-
-bF8CFBEE4-A326-4328-815C-99FA15F0E89B
-
-CLibtool /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a normal armv7
-s418982529.295088
-e418982529.304391
-r1
-xLibtool
-x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a
-xnormal
-xarmv7
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Libtool build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a normal armv7116"Libtool build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a normal armv722a74b812af9b841^6bf14d812af9b841^---0#0#1#--1448"Libtool build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a normal armv7    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -L/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/FlurrySDK/Flurry -filelist /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/Pods-FlurrySDK.LinkFileList -framework CoreGraphics -framework Foundation -framework Security -framework SystemConfiguration -framework UIKit -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7/libPods-FlurrySDK.a36"89BF3998-7F25-4232-8E8A-29592E06899E-
-bF8CFBEE4-A326-4328-815C-99FA15F0E89B
-
-CLibtool /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a normal armv7s
-s418982529.296225
-e418982529.306985
-r1
-xLibtool
-x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a
-xnormal
-xarmv7s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Libtool build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a normal armv7s118"Libtool build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a normal armv7s84f14b812af9b841^0f994e812af9b841^---0#0#1#--1453"Libtool build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a normal armv7s    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -L/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/FlurrySDK/Flurry -filelist /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/Pods-FlurrySDK.LinkFileList -framework CoreGraphics -framework Foundation -framework Security -framework SystemConfiguration -framework UIKit -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Objects-normal/armv7s/libPods-FlurrySDK.a36"B6335817-AD06-436C-B49B-E96A48B94D8D-
-bF8CFBEE4-A326-4328-815C-99FA15F0E89B
-
-CProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418982529.182041
-e418982529.239247
-r1
-xProcessPCH
-x/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.pch
-xPods-FlurrySDK-prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-prefix.pch
-d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-environment.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile Pods-FlurrySDK-prefix.pch302"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler30bc2e812af9b841^e23f3d812af9b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-prefix.pch0000000000000000^4412"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources/armv7 -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.d -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-prefix.pch -o /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-brqozikjghcbybamsvewfcynxenj/Pods-FlurrySDK-prefix.pch.pch36"72338F14-88DD-4D9F-9DA5-63CF0918E28F-
-bF8CFBEE4-A326-4328-815C-99FA15F0E89B
-
-CProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s418982529.183681
-e418982529.237750
-r1
-xProcessPCH
-x/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.pch
-xPods-FlurrySDK-prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-prefix.pch
-d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-environment.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile Pods-FlurrySDK-prefix.pch303"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerdb692f812af9b841^2bde3c812af9b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-prefix.pch0000000000000000^4415"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.pch Pods-FlurrySDK-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/Pods-FlurrySDK-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources/armv7s -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphoneos/Pods-FlurrySDK.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.d -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-FlurrySDK-prefix.pch -o /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-FlurrySDK-prefix-cmrwtjtofcvlqkasyserwgtimhsz/Pods-FlurrySDK-prefix.pch.pch36"92B7CD1C-82E2-441F-9433-BBDCD6FBC661-
-bF8CFBEE4-A326-4328-815C-99FA15F0E89B
-
