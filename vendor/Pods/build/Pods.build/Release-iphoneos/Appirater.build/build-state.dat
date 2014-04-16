@@ -1,0 +1,537 @@
+TAppirater
+v6
+r1
+cCheck dependencies
+cCpResource Appirater/ca.lproj .build/Appirater.bundle/ca.lproj
+cCpResource Appirater/cs.lproj .build/Appirater.bundle/cs.lproj
+cCpResource Appirater/da.lproj .build/Appirater.bundle/da.lproj
+cCpResource Appirater/de.lproj .build/Appirater.bundle/de.lproj
+cCpResource Appirater/el.lproj .build/Appirater.bundle/el.lproj
+cCpResource Appirater/en.lproj .build/Appirater.bundle/en.lproj
+cCpResource Appirater/es.lproj .build/Appirater.bundle/es.lproj
+cCpResource Appirater/fi.lproj .build/Appirater.bundle/fi.lproj
+cCpResource Appirater/fr.lproj .build/Appirater.bundle/fr.lproj
+cCpResource Appirater/he.lproj .build/Appirater.bundle/he.lproj
+cCpResource Appirater/hu.lproj .build/Appirater.bundle/hu.lproj
+cCpResource Appirater/id.lproj .build/Appirater.bundle/id.lproj
+cCpResource Appirater/it.lproj .build/Appirater.bundle/it.lproj
+cCpResource Appirater/ja.lproj .build/Appirater.bundle/ja.lproj
+cCpResource Appirater/nb.lproj .build/Appirater.bundle/nb.lproj
+cCpResource Appirater/ko.lproj .build/Appirater.bundle/ko.lproj
+cCpResource Appirater/nl.lproj .build/Appirater.bundle/nl.lproj
+cCpResource Appirater/pl.lproj .build/Appirater.bundle/pl.lproj
+cCpResource Appirater/pt.lproj .build/Appirater.bundle/pt.lproj
+cCpResource Appirater/ro.lproj .build/Appirater.bundle/ro.lproj
+cCpResource Appirater/ru.lproj .build/Appirater.bundle/ru.lproj
+cCpResource Appirater/sk.lproj .build/Appirater.bundle/sk.lproj
+cCpResource Appirater/sv.lproj .build/Appirater.bundle/sv.lproj
+cCpResource Appirater/tr.lproj .build/Appirater.bundle/tr.lproj
+cCpResource Appirater/zh-Hans.lproj .build/Appirater.bundle/zh-Hans.lproj
+cCpResource Appirater/zh-Hant.lproj .build/Appirater.bundle/zh-Hant.lproj
+cTouch /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle
+t1397307220
+s952
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ca.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/cs.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/da.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/de.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/el.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/en.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/es.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/fi.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/fr.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/he.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/hu.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/id.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/it.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ja.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ko.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/nb.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/nl.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/pl.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/pt.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ro.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ru.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/sk.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/sv.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/tr.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/zh-Hans.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/zh-Hant.lproj
+t1397307220
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ca.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/cs.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/da.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/de.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/el.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/en.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/es.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/fi.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/fr.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/he.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/hu.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/id.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/it.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ja.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ko.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/nb.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/nl.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/pl.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/pt.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ro.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ru.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/sk.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/sv.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/tr.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/zh-Hans.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/zh-Hant.lproj
+c000000005347ECD60000000000000066
+t1397222614
+s102
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies357f54d46ef9b841^809c54d46ef9b841^---0#1#1#--18"Check dependencies36"774A8203-6A8A-4CFB-A42F-A0A7D5A95616-
+
+CCpResource Appirater/ca.lproj .build/Appirater.bundle/ca.lproj
+s419000020.331123
+e419000020.333896
+r1
+xCpResource
+xAppirater/ca.lproj
+x.build/Appirater.bundle/ca.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/ca.lproj62"CpResource Appirater/ca.lproj .build/Appirater.bundle/ca.lprojbce754d46ef9b841^687655d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ca.lproj0034985bdcffdf42^798"CpResource Appirater/ca.lproj .build/Appirater.bundle/ca.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ca.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"E1F922CD-9555-470B-A8A5-A54CE8E97C56-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/cs.lproj .build/Appirater.bundle/cs.lproj
+s419000020.331247
+e419000020.333800
+r1
+xCpResource
+xAppirater/cs.lproj
+x.build/Appirater.bundle/cs.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/cs.lproj62"CpResource Appirater/cs.lproj .build/Appirater.bundle/cs.lproja5f854d46ef9b841^077d55d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/cs.lproj0034985bdcffdf42^798"CpResource Appirater/cs.lproj .build/Appirater.bundle/cs.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/cs.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"7D55B4F5-DBCE-456B-BBC7-FE4E4195E9D1-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/da.lproj .build/Appirater.bundle/da.lproj
+s419000020.331589
+e419000020.333914
+r1
+xCpResource
+xAppirater/da.lproj
+x.build/Appirater.bundle/da.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/da.lproj62"CpResource Appirater/da.lproj .build/Appirater.bundle/da.lprojb02055d46ef9b841^ed9d55d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/da.lproj0034985bdcffdf42^798"CpResource Appirater/da.lproj .build/Appirater.bundle/da.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/da.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"AEDB7A93-481E-4D5F-8468-37D0ED6DA69A-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/de.lproj .build/Appirater.bundle/de.lproj
+s419000020.332838
+e419000020.335476
+r1
+xCpResource
+xAppirater/de.lproj
+x.build/Appirater.bundle/de.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/de.lproj62"CpResource Appirater/de.lproj .build/Appirater.bundle/de.lprojd04755d46ef9b841^86e355d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/de.lproj0034985bdcffdf42^798"CpResource Appirater/de.lproj .build/Appirater.bundle/de.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/de.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"B839EF4E-5815-41BC-8078-D299507E0F49-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/el.lproj .build/Appirater.bundle/el.lproj
+s419000020.335315
+e419000020.336474
+r1
+xCpResource
+xAppirater/el.lproj
+x.build/Appirater.bundle/el.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/el.lproj62"CpResource Appirater/el.lproj .build/Appirater.bundle/el.lprojb9fa55d46ef9b841^1c2656d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/el.lproj0034985bdcffdf42^798"CpResource Appirater/el.lproj .build/Appirater.bundle/el.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/el.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"032A93F4-D44C-4961-A264-9E45A0ADA9EF-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/en.lproj .build/Appirater.bundle/en.lproj
+s419000020.335605
+e419000020.337054
+r1
+xCpResource
+xAppirater/en.lproj
+x.build/Appirater.bundle/en.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/en.lproj62"CpResource Appirater/en.lproj .build/Appirater.bundle/en.lproj950e56d46ef9b841^e44956d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/en.lproj0034985bdcffdf42^798"CpResource Appirater/en.lproj .build/Appirater.bundle/en.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/en.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"8654DA12-27CB-4FF7-9F21-F9B85E500C35-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/es.lproj .build/Appirater.bundle/es.lproj
+s419000020.336748
+e419000020.339472
+r1
+xCpResource
+xAppirater/es.lproj
+x.build/Appirater.bundle/es.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/es.lproj62"CpResource Appirater/es.lproj .build/Appirater.bundle/es.lproje86b56d46ef9b841^82fe56d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/es.lproj0034985bdcffdf42^798"CpResource Appirater/es.lproj .build/Appirater.bundle/es.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/es.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"E5D8BE5F-72F7-46DB-B3E4-6F4C38D1BED7-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/fi.lproj .build/Appirater.bundle/fi.lproj
+s419000020.337091
+e419000020.339072
+r1
+xCpResource
+xAppirater/fi.lproj
+x.build/Appirater.bundle/fi.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/fi.lproj62"CpResource Appirater/fi.lproj .build/Appirater.bundle/fi.lproj037956d46ef9b841^ee0457d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/fi.lproj0034985bdcffdf42^798"CpResource Appirater/fi.lproj .build/Appirater.bundle/fi.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/fi.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"48F64913-949B-47AB-BCEF-71A1552141ED-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/fr.lproj .build/Appirater.bundle/fr.lproj
+s419000020.337491
+e419000020.341247
+r1
+xCpResource
+xAppirater/fr.lproj
+x.build/Appirater.bundle/fr.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/fr.lproj62"CpResource Appirater/fr.lproj .build/Appirater.bundle/fr.lprojff9456d46ef9b841^2f1557d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/fr.lproj0034985bdcffdf42^798"CpResource Appirater/fr.lproj .build/Appirater.bundle/fr.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/fr.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"DD28F703-E731-4E35-AC24-CBE98DF7F779-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/he.lproj .build/Appirater.bundle/he.lproj
+s419000020.338410
+e419000020.340257
+r1
+xCpResource
+xAppirater/he.lproj
+x.build/Appirater.bundle/he.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/he.lproj62"CpResource Appirater/he.lproj .build/Appirater.bundle/he.lproja2b556d46ef9b841^c9ab57d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/he.lproj0034985bdcffdf42^798"CpResource Appirater/he.lproj .build/Appirater.bundle/he.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/he.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"7FBE4213-CEF2-4D38-A082-28E26B2C814F-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/hu.lproj .build/Appirater.bundle/hu.lproj
+s419000020.339646
+e419000020.341598
+r1
+xCpResource
+xAppirater/hu.lproj
+x.build/Appirater.bundle/hu.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/hu.lproj62"CpResource Appirater/hu.lproj .build/Appirater.bundle/hu.lproj1a3557d46ef9b841^f2b157d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/hu.lproj0034985bdcffdf42^798"CpResource Appirater/hu.lproj .build/Appirater.bundle/hu.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/hu.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"93CA99B1-708D-4E3D-8DBB-E8C1CA0555DF-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/id.lproj .build/Appirater.bundle/id.lproj
+s419000020.341245
+e419000020.343951
+r1
+xCpResource
+xAppirater/id.lproj
+x.build/Appirater.bundle/id.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/id.lproj62"CpResource Appirater/id.lproj .build/Appirater.bundle/id.lproj7c7f57d46ef9b841^de1e58d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/id.lproj0034985bdcffdf42^798"CpResource Appirater/id.lproj .build/Appirater.bundle/id.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/id.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"AED3F91A-892F-4477-984F-CC3ED799714D-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/it.lproj .build/Appirater.bundle/it.lproj
+s419000020.341734
+e419000020.344340
+r1
+xCpResource
+xAppirater/it.lproj
+x.build/Appirater.bundle/it.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/it.lproj62"CpResource Appirater/it.lproj .build/Appirater.bundle/it.lproj929157d46ef9b841^672658d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/it.lproj0034985bdcffdf42^798"CpResource Appirater/it.lproj .build/Appirater.bundle/it.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/it.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"DC58D253-3FFF-49DF-A14B-2EB851CC0211-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/ja.lproj .build/Appirater.bundle/ja.lproj
+s419000020.343208
+e419000020.344804
+r1
+xCpResource
+xAppirater/ja.lproj
+x.build/Appirater.bundle/ja.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/ja.lproj62"CpResource Appirater/ja.lproj .build/Appirater.bundle/ja.lproj63f157d46ef9b841^7c5f58d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ja.lproj0034985bdcffdf42^798"CpResource Appirater/ja.lproj .build/Appirater.bundle/ja.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ja.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"71C47845-8CF3-495E-A427-054BE04F9AFE-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/ko.lproj .build/Appirater.bundle/ko.lproj
+s419000020.344412
+e419000020.346990
+r1
+xCpResource
+xAppirater/ko.lproj
+x.build/Appirater.bundle/ko.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/ko.lproj62"CpResource Appirater/ko.lproj .build/Appirater.bundle/ko.lproj776458d46ef9b841^4eed58d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ko.lproj0034985bdcffdf42^798"CpResource Appirater/ko.lproj .build/Appirater.bundle/ko.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ko.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"FFF1F269-8838-4B45-A1D0-3A131AF3FEE9-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/nb.lproj .build/Appirater.bundle/nb.lproj
+s419000020.344116
+e419000020.347029
+r1
+xCpResource
+xAppirater/nb.lproj
+x.build/Appirater.bundle/nb.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/nb.lproj62"CpResource Appirater/nb.lproj .build/Appirater.bundle/nb.lproj1f6558d46ef9b841^92ca58d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/nb.lproj0034985bdcffdf42^798"CpResource Appirater/nb.lproj .build/Appirater.bundle/nb.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/nb.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"9A8BB2C7-9AA9-4CEF-86EE-039BF3BAC1E1-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/nl.lproj .build/Appirater.bundle/nl.lproj
+s419000020.345005
+e419000020.346926
+r1
+xCpResource
+xAppirater/nl.lproj
+x.build/Appirater.bundle/nl.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/nl.lproj62"CpResource Appirater/nl.lproj .build/Appirater.bundle/nl.lprojd67158d46ef9b841^ccd458d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/nl.lproj0034985bdcffdf42^798"CpResource Appirater/nl.lproj .build/Appirater.bundle/nl.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/nl.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"821D91D9-667F-4902-9EBE-D3F2DA663962-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/pl.lproj .build/Appirater.bundle/pl.lproj
+s419000020.347619
+e419000020.349947
+r1
+xCpResource
+xAppirater/pl.lproj
+x.build/Appirater.bundle/pl.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/pl.lproj62"CpResource Appirater/pl.lproj .build/Appirater.bundle/pl.lproj3b1c59d46ef9b841^83a659d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/pl.lproj0034985bdcffdf42^798"CpResource Appirater/pl.lproj .build/Appirater.bundle/pl.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/pl.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"8CC91917-CE5C-400B-A20E-255C7EFC4DFF-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/pt.lproj .build/Appirater.bundle/pt.lproj
+s419000020.347688
+e419000020.350909
+r1
+xCpResource
+xAppirater/pt.lproj
+x.build/Appirater.bundle/pt.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/pt.lproj62"CpResource Appirater/pt.lproj .build/Appirater.bundle/pt.lproj386a59d46ef9b841^9ed259d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/pt.lproj0034985bdcffdf42^798"CpResource Appirater/pt.lproj .build/Appirater.bundle/pt.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/pt.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"06FF9AB6-086A-4B1B-9BAB-ACC98D6E5786-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/ro.lproj .build/Appirater.bundle/ro.lproj
+s419000020.348778
+e419000020.350960
+r1
+xCpResource
+xAppirater/ro.lproj
+x.build/Appirater.bundle/ro.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/ro.lproj62"CpResource Appirater/ro.lproj .build/Appirater.bundle/ro.lproj4e6159d46ef9b841^44fa59d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ro.lproj0034985bdcffdf42^798"CpResource Appirater/ro.lproj .build/Appirater.bundle/ro.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ro.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"E9E76538-EDB2-4945-AF2E-1FD7A9411A03-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/ru.lproj .build/Appirater.bundle/ru.lproj
+s419000020.349002
+e419000020.350942
+r1
+xCpResource
+xAppirater/ru.lproj
+x.build/Appirater.bundle/ru.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/ru.lproj62"CpResource Appirater/ru.lproj .build/Appirater.bundle/ru.lproj6b7d59d46ef9b841^46ea59d46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/ru.lproj0034985bdcffdf42^798"CpResource Appirater/ru.lproj .build/Appirater.bundle/ru.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/ru.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"8963508C-4D0C-48F0-B1C9-B2ADD5D3EE52-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/sk.lproj .build/Appirater.bundle/sk.lproj
+s419000020.350603
+e419000020.352290
+r1
+xCpResource
+xAppirater/sk.lproj
+x.build/Appirater.bundle/sk.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/sk.lproj62"CpResource Appirater/sk.lproj .build/Appirater.bundle/sk.lprojd6e459d46ef9b841^48335ad46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/sk.lproj0034985bdcffdf42^798"CpResource Appirater/sk.lproj .build/Appirater.bundle/sk.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/sk.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"61612398-9B10-404E-8119-7774956CEC9F-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/sv.lproj .build/Appirater.bundle/sv.lproj
+s419000020.351597
+e419000020.353307
+r1
+xCpResource
+xAppirater/sv.lproj
+x.build/Appirater.bundle/sv.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/sv.lproj62"CpResource Appirater/sv.lproj .build/Appirater.bundle/sv.lproj8c2f5ad46ef9b841^0b7b5ad46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/sv.lproj0034985bdcffdf42^798"CpResource Appirater/sv.lproj .build/Appirater.bundle/sv.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/sv.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"26401D52-80A6-4EB9-A856-34C2BE05B69B-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/tr.lproj .build/Appirater.bundle/tr.lproj
+s419000020.351653
+e419000020.353715
+r1
+xCpResource
+xAppirater/tr.lproj
+x.build/Appirater.bundle/tr.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy .build/Appirater.bundle/tr.lproj62"CpResource Appirater/tr.lproj .build/Appirater.bundle/tr.lprojc8405ad46ef9b841^4eb55ad46ef9b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/tr.lproj0034985bdcffdf42^798"CpResource Appirater/tr.lproj .build/Appirater.bundle/tr.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/tr.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"E0B33111-ECF1-47E3-B417-7A0FD36E6F3E-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/zh-Hans.lproj .build/Appirater.bundle/zh-Hans.lproj
+s419000020.352231
+e419000020.354154
+r1
+xCpResource
+xAppirater/zh-Hans.lproj
+x.build/Appirater.bundle/zh-Hans.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy .build/Appirater.bundle/zh-Hans.lproj72"CpResource Appirater/zh-Hans.lproj .build/Appirater.bundle/zh-Hans.lproj07615ad46ef9b841^e7c45ad46ef9b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/zh-Hans.lproj0034985bdcffdf42^813"CpResource Appirater/zh-Hans.lproj .build/Appirater.bundle/zh-Hans.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/zh-Hans.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"FCB25F1A-9FCA-455E-9E73-B704C3BF4DBF-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CCpResource Appirater/zh-Hant.lproj .build/Appirater.bundle/zh-Hant.lproj
+s419000020.352830
+e419000020.354317
+r1
+xCpResource
+xAppirater/zh-Hant.lproj
+x.build/Appirater.bundle/zh-Hant.lproj
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy .build/Appirater.bundle/zh-Hant.lproj72"CpResource Appirater/zh-Hant.lproj .build/Appirater.bundle/zh-Hant.lproj79755ad46ef9b841^42cf5ad46ef9b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle/zh-Hant.lproj0034985bdcffdf42^813"CpResource Appirater/zh-Hant.lproj .build/Appirater.bundle/zh-Hant.lproj    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Appirater/zh-Hant.lproj /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle36"831B5D37-1C19-43A6-AA44-AD725900BCC5-
+b6682C7BB-D8E6-4B51-A3A6-AB1F09A62003
+
+CTouch /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/Appirater.bundle
+r0
+

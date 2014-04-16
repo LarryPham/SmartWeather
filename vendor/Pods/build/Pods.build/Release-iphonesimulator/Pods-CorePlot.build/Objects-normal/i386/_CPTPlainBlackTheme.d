@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/_CPTPlainBlackTheme.m \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/_CPTPlainBlackTheme.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/_CPTXYTheme.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTTheme.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTBorderedLayer.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTAnnotationHostLayer.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTLayer.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTDefinitions.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTResponder.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/iPhoneOnly/CPTPlatformSpecificDefines.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTColor.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTFill.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTMutableLineStyle.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTLineStyle.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTMutableTextStyle.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTTextStyle.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/iPhoneOnly/CPTTextStylePlatformSpecific.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTPlotAreaFrame.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTUtilities.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTXYAxis.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTAxis.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTXYAxisSet.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTAxisSet.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTXYGraph.h \
+  /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/CorePlot/framework/Source/CPTGraph.h

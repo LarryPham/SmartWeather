@@ -1,0 +1,178 @@
+TPods-Harpy
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-Harpy.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F1A9E0000000000A90C10
+t1394547358
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534817560000000000000198
+t1397233494
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F1AB100000000000003B4
+t1394547377
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F1AB8000000000000019E
+t1394547384
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F1ADB0000000000000ADC
+t1394547419
+s2780
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-Harpy.a
+t2
+s0
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.h
+c000000005347ED810000000000000FDD
+t1397222785
+s4061
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m
+c000000005347ED810000000000003837
+t1397222785
+s14391
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m
+c000000005347ED83000000000000007C
+t1397222787
+s124
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-prefix.pch
+c000000005347ED83000000000000004D
+t1397222787
+s77
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/UIDevice-SupportedDevices/UIDevice+SupportedDevices/UIDevice+SupportedDevices.h
+c000000005347ED820000000000000162
+t1397222786
+s354
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.o
+t1397457491
+s94744
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.o
+t1397457490
+s3436
+
+N/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy.LinkFileList
+c000000005347F20F000000000000012B
+t1397223951
+s299
+
+N/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-ahgrwhnmvwxapfhgulvftrdfzgux/Pods-Harpy-prefix.pch.pch
+t1397222805
+s129980
+
+N/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-gbocmahshaysijgktvylcvjampbp/Pods-Harpy-prefix.pch.pch
+t1397222805
+s128992
+
+N/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.pch
+t1397457490
+s129012
+
+N/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.pch
+t1397457490
+s130000
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc80badd2b9fbb841^f2ceadd2b9fbb841^---0#1#1#--18"Check dependencies36"49C9479D-D89F-42CB-9E2E-5DE9740860F5-
+
+CCompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150290.740648
+e419150291.022175
+r1
+xCompileC
+xbuild/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.o
+x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.h
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/UIDevice-SupportedDevices/UIDevice+SupportedDevices/UIDevice+SupportedDevices.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m182"CompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.o Harpy/Harpy/Harpy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler05bfbdd2b9fbb841^92ae05d3b9fbb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m0000000000000000^4446"CompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.o Harpy/Harpy/Harpy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources/i386 -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch -MMD -MT dependencies -MF /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.d --serialize-diagnostics /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.dia -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Harpy/Harpy/Harpy.m -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Harpy.o36"D2A6C835-AAA7-49AF-B64A-F5BD21DDC9E5-
+b664F6B46-97E8-4348-83FF-9AD10DDAFCD8
+
+CCompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150290.741252
+e419150290.817379
+r1
+xCompileC
+xbuild/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.o
+x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m192"CompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.o Pods-Harpy-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7e8bdd2b9fbb841^9f56d1d2b9fbb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m0000000000000000^4454"CompileC build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.o Pods-Harpy-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources/i386 -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch -MMD -MT dependencies -MF /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.d --serialize-diagnostics /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.dia -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-dummy.m -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy-dummy.o36"62DB8881-A2B8-4BB8-8C28-4618EF2F27B7-
+b664F6B46-97E8-4348-83FF-9AD10DDAFCD8
+
+CLibtool /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-Harpy.a normal i386
+s419150291.023353
+e419150291.030886
+r1
+xLibtool
+x/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-Harpy.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Libtool .build/libPods-Harpy.a normal i38642"Libtool .build/libPods-Harpy.a normal i386901306d3b9fbb841^e1ef07d3b9fbb841^---0#0#1#--1150"Libtool .build/libPods-Harpy.a normal i386    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -filelist /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Objects-normal/i386/Pods-Harpy.LinkFileList -framework Foundation -o /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/libPods-Harpy.a36"40580A9A-2F56-467D-8EBE-E7C92EB67BA3-
+b664F6B46-97E8-4348-83FF-9AD10DDAFCD8
+
+CProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-ahgrwhnmvwxapfhgulvftrdfzgux/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-gbocmahshaysijgktvylcvjampbp/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150290.679887
+e419150290.739772
+r1
+xProcessPCH
+x/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.pch
+xPods-Harpy-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-prefix.pch
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile Pods-Harpy-prefix.pch291"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9830aed2b9fbb841^a568bdd2b9fbb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-prefix.pch0000000000000000^4471"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources/i386 -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.d -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-prefix.pch -o /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-dhqqsmuuigijesajhkofjjiqbfsq/Pods-Harpy-prefix.pch.pch36"86792929-FCF8-4EC3-B71E-DC3C84384A15-
+b664F6B46-97E8-4348-83FF-9AD10DDAFCD8
+
+CProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419150290.679531
+e419150290.734322
+r1
+xProcessPCH
+x/var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.pch
+xPods-Harpy-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-prefix.pch
+d/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile Pods-Harpy-prefix.pch291"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerce18aed2b9fbb841^87fcbbd2b9fbb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-prefix.pch0000000000000000^4505"ProcessPCH /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.pch Pods-Harpy-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/bin:/Users/nicolasrenard/.rbenv/versions/1.9.3-p194/bin:/usr/local/Cellar/rbenv/0.4.0/libexec:/Users/nicolasrenard/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-generated-files.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-own-target-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-all-target-headers.hmap -iquote /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/Pods-Harpy-project-headers.hmap -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build/include -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/BuildHeaders/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/AFNetworking -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Appirater -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/CorePlot -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/FlurrySDK -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/Harpy -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Headers/UIDevice-SupportedDevices -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources/i386 -I/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods-Harpy.build/DerivedSources -F/Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/.build -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.d -c /Users/nicolasrenard/RubyMotions/SmartWeather/vendor/Pods/Pods-Harpy-prefix.pch -o /var/folders/cf/jszfpqdj3w9_lmkzbhp5g6m40000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Pods-Harpy-prefix-fqjowpvmnowutobicesarjaqacmk/Pods-Harpy-prefix.pch.pch36"46F5CA3D-9025-4518-B173-E51233A30E26-
+b664F6B46-97E8-4348-83FF-9AD10DDAFCD8
+
