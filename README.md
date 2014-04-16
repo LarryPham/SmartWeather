@@ -1,0 +1,4 @@
+SmartWeather
+============
+
+RubyMotion Weather Application
